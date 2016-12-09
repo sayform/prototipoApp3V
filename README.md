@@ -1,0 +1,2 @@
+# prototipoApp3V
+Criação e prototipação de um aplicativo para a empresa 3ª Visão – Perícias e Vistorias Automotivas especializada no segmento de vistoria cautelar e um dos clientes da Oxxygen Tecnologia. O aplicativo contempla todo o fluxo de emissão de Ordens de Serviço, Laudos e Pesquisas Veiculares. A prototipação do app foi desenvolvida na plataforma online proto.io; que possibilitou ao cliente ter uma prévia experiência da usabilidade do aplicativo.

@@ -1,0 +1,22 @@
+
+
+.carousel-inner {
+  height: 400px;
+}
+.container {
+  padding-top: 15px;
+  padding-bottom: 15px;
+  border: 2px solid #e6e7e8;
+}
+.div-img {
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+.footer {
+  padding-top: 40px;
+  padding-bottom: 40px;
+  margin-top: 50px;
+  color: inherit;
+  background-color: #eee;
+}
